@@ -1,0 +1,14 @@
+{
+  "name": "chai_or_backend",
+  "version": "1.0.0",
+  "description": "backend code writing",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index"
+  },
+  "author": "yogesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
